@@ -11,10 +11,10 @@
 <?php
 
 $original = "abcdefghijklmnopqrstuvwxyz1234567890";
-     $key = "hy74zg1paumxq5wk98i06jodtcelnr2bv3s"; // cat = 7hi
+$key = "hy74zg1pfaumxq5wk98i06jodtcelnr2bv3s"; // cat = 7hi
 
-$message = "I Love You Sathi";
-$message = strtolower($message);
+$message = "Hello My Friend. Cholo Khaoya Daoya Kori.";
+$message = strtolower($message); // message small later korar jonno
 
 $output = '';
 
@@ -27,7 +27,7 @@ for ($i=0;$i<strlen($message);$i++){
     }else{
         $replacement = $character;
     }
-    // echo $character.$position."_";
+    // echo $character.$position."_"
    
     $output = $output . $replacement;
 

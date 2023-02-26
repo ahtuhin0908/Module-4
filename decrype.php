@@ -11,9 +11,9 @@
 <?php
 
 $original = "abcdefghijklmnopqrstuvwxyz1234567890";
-     $key = "hy74zg1paumxq5wk98i06jodtcelnr2bv3s"; // cat = 7hi
+     $key = "hy74zg1pfaumxq5wk98i06jodtcelnr2bv3s"; // cat = 7hi
 
-$message = "a xwjz tw6 ih0pa";
+$message = "pzmm5 xd g9fzq4. 7p5m5 uph5dh 4h5dh u59f.";
 // $message = strtolower($message); // dorkar nai eitar
 
 $output = '';

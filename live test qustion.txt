@@ -1,0 +1,15 @@
+Creat a php class called car that has three private properties: $make, $model, and $year. define a constructor method to set the values of these properties when a new object is created also, define six additional methods:get_make(), get_model(), get_year(0, set_make(), set_model(), and set_year(). The get_ methods should allow us to retrives the values of the private properties, while the set_ methods should allow us to update them, Finally, define a method called display_info() that echoes out the car`s make, model, and year
+
+creat a car object with the make, model, and year of a 2015 Toyota Corolla. Call the display_info() method to display the car`s infotmation.
+
+Then, use the set_make() and set_model() methods to update the car`s make and model to a 2015 Honda Civic. Call the display_info() method again to display the updated car information.
+
+hints:
+Output:
+car make: Toyota
+card model: Corolla
+car year: 2015
+
+Car make: Honda
+car model: Civic
+car Year: 2015

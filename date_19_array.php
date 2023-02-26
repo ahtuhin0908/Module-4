@@ -28,9 +28,9 @@ $ln="Hossain";
 $string = " Hello World ";
 
 
-// echo strlen($string);
-// echo $string[6];
-$clean_string = trim($string); // eita variable er bam and dan pashe theke spane and non printable charecter pele dibe jegula print hobe na.
+// echo strlen($string); koyta word ace ta dekhar jonno
+// echo $string[6];  // word khuje ber korar jonno
+$clean_string = trim($string); // eita variable er bam and dan pashe theke spane and non printable charecter pele dibe jegula print hobe na arki.
 echo strlen ($clean_string);
 
 
